@@ -1,4 +1,4 @@
-# game
+# Dynamic
 
 ## Project setup
 ```
